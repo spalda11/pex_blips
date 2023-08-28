@@ -20,3 +20,4 @@ Citizen.CreateThread(function()
     local blip2 = CreateBlip(x2, y2, z2, 2, 1, "Second Blip") -- Replace x2, y2, z2 as needed
 
     -- ... you can resume with another blips
+end)
